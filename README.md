@@ -1,5 +1,5 @@
 
-### Hi, I’m Damon George
+### Hi, I’m Damon
 
 Welcome to my Github profile.
 
